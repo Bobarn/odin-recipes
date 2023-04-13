@@ -1,1 +1,2 @@
 # odin-recipes
+This website will present recipes in a readable and digestible manner. In completing this project I will demonstrate my command over html and my competency in creating a website and platform that can be used as the basis for css and javascript to interact with and form a completed product.
